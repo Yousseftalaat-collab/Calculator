@@ -9,7 +9,7 @@ It supports basic math operations, includes a light/dark <em>theme toggle</em>, 
 
 <h2>📸 Preview</h2>
 <div align="center">
-  <img src="./screenshoot.gif" width="800" alt="Calculator App Preview"/>
+  <img src="./screenshoot1.gif" width="800" alt="Calculator App Preview"/>
 </div>
 
 <hr>
